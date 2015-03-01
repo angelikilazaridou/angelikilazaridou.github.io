@@ -7,7 +7,7 @@ About me
 I'm Angeliki, a graduate student, working with [Marco Baroni](http://clic.cimec.unitn.it/marco),  at the [CLIC Lab](http://clic.cimec.unitn.it)  of the Center for Mind/Brain Sciences of the University of Trento, Italy 
 ([map](https://www.google.com/maps/place/Roveret://www.google.com/maps/place/38068+Rovereto+TN,+It%C3%A1lie/@47.2603133,11.7074777,5z/data=!4m2!3m1!1s0x47820ec143127041:0x6a9664123aebfadf)).\\
 Before that, I did an MSc in [Computational Linguistics at the University of Saarland](http://www.coli.uni-saarland.de) working on Sentiment Analysis with [Ivan Titov](http://ivan-titov.org) and [Caroline Sporleder](http://http://www.uni-trier.de/index.php?id=46381).\\
-And before that, I was Computer Science BSc student working with [George Paliouras](http://http://users.iit.demokritos.gr/~paliourg) on Sentiment Analysis. 
+And before that, I was Computer Science BSc student working with [George Paliouras](http://users.iit.demokritos.gr/~paliourg) on Sentiment Analysis. 
 
 News
 ---------
