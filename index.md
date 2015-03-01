@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![Image of me](../resourses/me.jpg)
+
 About me
 --------
 I'm Angeliki, a graduate student, working with [Marco Baroni](http://clic.cimec.unitn.it/marco),  at the [CLIC Lab](http://clic.cimec.unitn.it)  of the Center for Mind/Brain Sciences of the University of Trento, Italy 
