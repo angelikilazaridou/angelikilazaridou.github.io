@@ -22,5 +22,3 @@ National & Kapodistrian University of Athens, Greece\\
 **Thesis**: Entity-level sentiment classiﬁcation of textual data from the web\\
 **Supervisors**: Giorgos Paliouras, Panagiotis Stamatopoulos
 
-Experience
-------------
