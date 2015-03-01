@@ -25,7 +25,7 @@ Dat Tien Nguyen, **Angeliki Lazaridou** and Raffaella Bernardi\\
 VL' 2014, co-located with COLING 2014, Poster\\
 [paper](http://www.aclweb.org/anthology/W14-5418)
 
-Applications of Compositional Semantics
+Compositional Distributional Semantics
 -------------------------------------
 * **Fish transporters and miracle homes: How compositional distributional semantics can help NP parsing**\\
 **Angeliki Lazaridou**, Eva Maria Vecchi and Marco Baroni\\
