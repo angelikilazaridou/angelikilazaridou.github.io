@@ -19,7 +19,7 @@ NAACL 2015 Long, Oral  (also appeared at NIPS Learning Semantics Workshop 2014)\
 * **Is this a wampimuk? Cross-modal mapping between distributional semantics and the visual world**\\
 **Angeliki Lazaridou**, Elia Bruni and Marco Baroni\\
 ACL 2014 Long, Oral\\
-[paper](https://www.aclweb.org/anthology/P/P14/P14-1132.pdf) [slides](..//resourses/wampimuk/wampimuk_slides.pdf) [talk](http://techtalks.tv/talks/is-this-a-wampimuk-cross-modal-mapping-between-distributional-semantics-and-the-visual/60484/)
+[paper](https://www.aclweb.org/anthology/P/P14/P14-1132.pdf) [slides](..//resourses/vision/wampimuk_slides.pdf) [talk](http://techtalks.tv/talks/is-this-a-wampimuk-cross-modal-mapping-between-distributional-semantics-and-the-visual/60484/)
 * **Coloring Objects: Adjective-Noun Visual Semantic Compositionality**\\
 Dat Tien Nguyen, **Angeliki Lazaridou** and Raffaella Bernardi\\
 VL' 2014, co-located with COLING 2014, Poster\\
