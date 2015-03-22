@@ -10,7 +10,7 @@ Language and Vision
 ------------------
 * **From Visual Attributes to Adjectives through Decompositional Distributional Semantics**\\
 **Angeliki Lazaridou**, Georgiana Dinu, Adam Liska and Marco Baroni\\
-Under Review\\
+TACL\\
 [paper](http://arxiv.org/abs/1501.02714)
 * **Combining Language and Vision with a Multimodal Skipgram Model**\\
 **Angeliki Lazaridou**, Nghia The Pham and Marco Baroni\\
