@@ -13,7 +13,7 @@ And before that, I was a Computer Science BSc student working with <a href="http
 
 News
 ---------
-* March 2015: Our work *From visual attributes to adjectives through decompositional distributional semantics* got accepted at TACL
+* March 2015: Our work *From visual attributes to adjectives through decompositional distributional semantics* with Georgiana, Adam and Marco got accepted at TACL
 * February 2015: Our work *Combining Language and Vision with a Multimodal Skip-gram Model*, with Nghia and Marco, got selected for an oral presentation at NAACL 
 * February 2015: I was selected as a Facebook Fellowship Finalist 
 
