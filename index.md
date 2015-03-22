@@ -13,7 +13,8 @@ And before that, I was a Computer Science BSc student working with <a href="http
 
 News
 ---------
-* February 2015: Our work *Combining Language and Vision with Multimodal Skip-gram Model*, with Nghia The Pham and Marco Baroni, got selected for an oral presentation at NAACL 
+* March 2015: Our work *From visual attributes to adjectives through decompositional distributional semantics* got accepted at TACL
+* February 2015: Our work *Combining Language and Vision with a Multimodal Skip-gram Model*, with Nghia and Marco, got selected for an oral presentation at NAACL 
 * February 2015: I was selected as a Facebook Fellowship Finalist 
 
 My research
