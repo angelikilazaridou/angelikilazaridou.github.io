@@ -4,6 +4,9 @@ title: CV
 permalink: /CV/
 ---
 
+[Detailed CV](..//resourses/cv.pdf)
+
+
 Education
 ----------
 * PhD Candidate\\
