@@ -10,12 +10,16 @@ Language and Vision
 ------------------
 * **From Visual Attributes to Adjectives through Decompositional Distributional Semantics**\\
 **Angeliki Lazaridou**, Georgiana Dinu, Adam Liska and Marco Baroni\\
-TACL\\
+Transactions of the Association for Computational Linguistics (TACL)\\
 [paper](http://arxiv.org/abs/1501.02714)
 * **Combining Language and Vision with a Multimodal Skipgram Model**\\
 **Angeliki Lazaridou**, Nghia The Pham and Marco Baroni\\
 NAACL 2015 Long, Oral  (also appeared at NIPS Learning Semantics Workshop 2014)\\
 [paper](http://arxiv.org/abs/1501.02598)
+* **Improving Zero-shot Learning by Mitigating the Hubness Problem**\\
+Georgiana Dinu, **Angeliki Lazaridou** and Marco Baroni\\
+ICLR 2015, Workshop Track\\
+[paper](http://arxiv.org/abs/1412.6568)
 * **Is this a wampimuk? Cross-modal mapping between distributional semantics and the visual world**\\
 **Angeliki Lazaridou**, Elia Bruni and Marco Baroni\\
 ACL 2014 Long, Oral\\
