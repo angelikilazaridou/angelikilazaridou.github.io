@@ -37,7 +37,7 @@ Compositional Distributional Semantics
 -------------------------------------
 * **Jointly optimizing word representations for lexical and sentential tasks with the C-PHRASE model**\\
 Nghia The Pham, German Kruzwewski, **Angeliki Lazaridou** and Marco Baroni\\
-ACL 2015
+ACL 2015\\
 [paper coming soon]
 * **Fish transporters and miracle homes: How compositional distributional semantics can help NP parsing**\\
 **Angeliki Lazaridou**, Eva Maria Vecchi and Marco Baroni\\
