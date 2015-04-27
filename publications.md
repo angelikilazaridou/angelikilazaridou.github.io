@@ -8,6 +8,10 @@ permalink: /publications/
 
 Language and Vision
 ------------------
+* **Hubness and Pollution: Delving into Cross-Space Mapping for Zero-Shot Learning\\
+**Angeliki Lazaridou**, Georgiana Dinu and Marco Baroni\\
+ACL 2015
+[paper coming soon]
 * **From Visual Attributes to Adjectives through Decompositional Distributional Semantics**\\
 **Angeliki Lazaridou**, Georgiana Dinu, Adam Liska and Marco Baroni\\
 Transactions of the Association for Computational Linguistics (TACL)\\
@@ -31,6 +35,10 @@ VL' 2014, co-located with COLING 2014, Poster\\
 
 Compositional Distributional Semantics
 -------------------------------------
+* **Jointly optimizing word representations for lexical and sentential tasks with the C-PHRASE model**
+Nghia The Pham, German Kruzwewski, **Angeliki Lazaridou** and Marco Baroni\\
+ACL 2015
+[paper coming soon]
 * **Fish transporters and miracle homes: How compositional distributional semantics can help NP parsing**\\
 **Angeliki Lazaridou**, Eva Maria Vecchi and Marco Baroni\\
 EMNLP 2013 Short, Oral\\

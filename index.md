@@ -13,9 +13,14 @@ And before that, I was a Computer Science BSc student working with <a href="http
 
 News
 ---------
-* April 2015: Our work *Improving Zero-shot Learning by Mitigating the Hubness Problem* with Georgiana and Marco will appear at ICLR.
-* March 2015: Our work *From Visual Attributes to Adjectives through Decompositional Distributional Semantics* with Georgiana, Adam and Marco got accepted at TACL.
-* February 2015: Our work *Combining Language and Vision with a Multimodal Skip-gram Model*  with Nghia and Marco, got selected for an oral presentation at NAACL.
+* April 2015: <a href="http://angelikilazaridou.github.io/publications/">Two longs papers</a> to appear at ACL 2015!
+
+* April 2015: Our work *Improving Zero-shot Learning by Mitigating the Hubness Problem* with Georgiana and Marco will appear at ICLR!
+
+* March 2015: Our work *From Visual Attributes to Adjectives through Decompositional Distributional Semantics* with Georgiana, Adam and Marco got accepted at TACL!
+
+* February 2015: Our work *Combining Language and Vision with a Multimodal Skip-gram Model*  with Nghia and Marco, got selected for an oral presentation at NAACL!
+
 * February 2015: I was selected as a Facebook Fellowship Finalist.
 
 
