@@ -10,7 +10,7 @@ Language and Vision
 ------------------
 * **Hubness and Pollution: Delving into Cross-Space Mapping for Zero-Shot Learning**\\
 **Angeliki Lazaridou**, Georgiana Dinu and Marco Baroni\\
-ACL 2015
+ACL 2015\\
 [paper coming soon]
 * **From Visual Attributes to Adjectives through Decompositional Distributional Semantics**\\
 **Angeliki Lazaridou**, Georgiana Dinu, Adam Liska and Marco Baroni\\
