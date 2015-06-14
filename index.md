@@ -13,7 +13,9 @@ And before that, I was a Computer Science BSc student working with <a href="http
 
 News
 ---------
-* April 2015: <a href="http://angelikilazaridou.github.io/publications/">Two longs papers</a> to appear at ACL 2015!
+* April 2015: Our work *A Multitask Objective to Inject Lexical Contrast into Distributional Semantics* with Nghia and Marco will appear at ACL 2015 (Short)!
+
+* April 2015: <a href="http://angelikilazaridou.github.io/publications/">Two long papers</a> to appear at ACL 2015!
 
 * April 2015: Our work *Improving Zero-shot Learning by Mitigating the Hubness Problem* with Georgiana and Marco will appear at ICLR!
 
