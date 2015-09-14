@@ -13,6 +13,8 @@ And before that, I was a Computer Science BSc student working with <a href="http
 
 News
 ---------
+* September 2015: Slides on <a href="../resources/talks/MmLL.pdf">Multimodal Language Learning</a> (Talks at IBM Watson, UPenn and Facebook AI)
+
 * June 2015: <a href="http://arxiv.org/abs/1506.03500">What is the meaning of a word? Generating natural images from word embeddings.</a>
 
 * June 2015: Our work *A Multitask Objective to Inject Lexical Contrast into Distributional Semantics* with Nghia and Marco will appear at ACL 2015 (Short)!
