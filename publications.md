@@ -40,7 +40,7 @@ Dat Tien Nguyen, **Angeliki Lazaridou** and Raffaella Bernardi\\
 VL' 2014, co-located with COLING 2014, Poster\\
 [paper](http://www.aclweb.org/anthology/W14-5418)
 
-Compositional Distributional Semantics
+(Compositional) Distributional Semantics
 -------------------------------------
 * **A Multitask Objective to Inject Lexical Contrast into Distributional Semantics**\\
 Nghia The Pham, **Angeliki Lazaridou** and Marco Baroni\\
