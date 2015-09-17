@@ -13,6 +13,8 @@ And before that, I was a Computer Science BSc student working with <a href="http
 
 News
 ---------
+* September 2015: I will be attending the Google NLP PhD Summit!
+
 * September 2015: Slides on <a href="../resourses/talks/MmLL.pdf">Multimodal Language Learning</a> (Talks at IBM Watson, UPenn and Facebook AI)
 
 * June 2015: <a href="http://arxiv.org/abs/1506.03500">What is the meaning of a word? Language-drive image generation from word embeddings</a>
