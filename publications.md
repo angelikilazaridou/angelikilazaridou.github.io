@@ -13,7 +13,7 @@ permalink: /publications/
 [paper](http://arxiv.org/abs/1506.03500)
 * **Do Distributed Semantic Models Dream of Electric Sheep? Visualizing Word Representations through Image Synthesis**\\
 **Angeliki Lazaridou**, Dat Tien Nguyen and Marco Baroni\\
-VL' 2015, co-located with EMNLP 2015, Long, Oral\\
+VL 2015, co-located with EMNLP 2015, Long, Oral\\
 [paper](http://www.emnlp2015.org/proceedings/VL/pdf/VL13.pdf)
 * **Hubness and Pollution: Delving into Cross-Space Mapping for Zero-Shot Learning**\\
 **Angeliki Lazaridou**, Georgiana Dinu and Marco Baroni\\
@@ -48,12 +48,11 @@ ACL 2014 Long, Oral\\
 [paper](https://www.aclweb.org/anthology/P/P14/P14-1132.pdf) [slides](..//resourses/vision/wampimuk_slides.pdf) [talk](http://techtalks.tv/talks/is-this-a-wampimuk-cross-modal-mapping-between-distributional-semantics-and-the-visual/60484/)
 * **Coloring Objects: Adjective-Noun Visual Semantic Compositionality**\\
 Dat Tien Nguyen, **Angeliki Lazaridou** and Raffaella Bernardi\\
-VL' 2014, co-located with COLING 2014, Poster\\
+VL 2014, co-located with COLING 2014, Poster\\
 [paper](http://www.aclweb.org/anthology/W14-5418)
 
 2013
 --------------------
-
 * **Compositional-ly derived representations of morphologically complex words in distributional semantics**\\
 **Angeliki Lazaridou**, Marco Marelli, Roberto Zamparelli and Marco Baroni\\
 ACL 2013 Long, Oral\\
