@@ -6,7 +6,7 @@ permalink: /publications/
 
 [Google Scholar Profile](https://scholar.google.it/citations?user=BMgUIC0AAAAJ&hl=en)
 
-2015
+Language and Vision
 ------------------
 * **Unveiling the Dreams of Word Embeddings: Towards Language-Driven Image Generation**\\
 **Angeliki Lazaridou**, Dat Tien Nguyen, Raffaela Bernardi and Marco Baroni\\
@@ -31,17 +31,6 @@ NAACL 2015 Long, Oral  (also appeared at NIPS Learning Semantics Workshop 2014)\
 Georgiana Dinu, **Angeliki Lazaridou** and Marco Baroni\\
 ICLR 2015, Workshop Track\\
 [paper](http://arxiv.org/abs/1412.6568)
-* **A Multitask Objective to Inject Lexical Contrast into Distributional Semantics**\\
-Nghia The Pham, **Angeliki Lazaridou** and Marco Baroni\\
-ACL 2015 Short, Oral\\
-[paper](https://aclweb.org/anthology/P/P15/P15-2004.pdf)
-* **Jointly optimizing word representations for lexical and sentential tasks with the C-PHRASE model**\\
-Nghia The Pham, German Kruzwewski, **Angeliki Lazaridou** and Marco Baroni\\
-ACL 2015 Long, Poster\\
-[paper](https://aclweb.org/anthology/P/P15/P15-1027.pdf)
-
-2014
---------------------
 * **Is this a wampimuk? Cross-modal mapping between distributional semantics and the visual world**\\
 **Angeliki Lazaridou**, Elia Bruni and Marco Baroni\\
 ACL 2014 Long, Oral\\
@@ -51,24 +40,31 @@ Dat Tien Nguyen, **Angeliki Lazaridou** and Raffaella Bernardi\\
 VL' 2014, co-located with COLING 2014, Poster\\
 [paper](http://www.aclweb.org/anthology/W14-5418)
 
-2013
---------------------
-
+(Compositional) Distributional Semantics
+-------------------------------------
+* **A Multitask Objective to Inject Lexical Contrast into Distributional Semantics**\\
+Nghia The Pham, **Angeliki Lazaridou** and Marco Baroni\\
+ACL 2015 Short, Oral\\
+[paper](https://aclweb.org/anthology/P/P15/P15-2004.pdf)
+* **Jointly optimizing word representations for lexical and sentential tasks with the C-PHRASE model**\\
+Nghia The Pham, German Kruzwewski, **Angeliki Lazaridou** and Marco Baroni\\
+ACL 2015 Long, Poster\\
+[paper](https://aclweb.org/anthology/P/P15/P15-1027.pdf)
+* **Fish transporters and miracle homes: How compositional distributional semantics can help NP parsing**\\
+**Angeliki Lazaridou**, Eva Maria Vecchi and Marco Baroni\\
+EMNLP 2013 Short, Oral\\
+[paper](http://www.aclweb.org/anthology/D/D13/D13-1196.pdf) [data](../resourses/parsing/NP_dataset.tar.gz) [slides](../resourses/parsing/NP_Parsing.pdf)
 * **Compositional-ly derived representations of morphologically complex words in distributional semantics**\\
 **Angeliki Lazaridou**, Marco Marelli, Roberto Zamparelli and Marco Baroni\\
 ACL 2013 Long, Oral\\
 [paper](http://www.aclweb.org/anthology/P/P13/P13-1149.pdf) [data](../resourses/morphology/affix_complete_set.txt.gz) [slides](../resourses/morphology/morpho.pdf)
+
+Sentiment Analysis
+----------------------
 * **A Bayesian Model for Joint Unsupervised Induction of Sentiment, Aspect and Discourse Representations**\\
 **Angeliki Lazaridou**, Ivan Titov and Caroline Sporleder\\
 ACL 2013 Long, Oral\\
 [paper](http://www.aclweb.org/anthology/P/P13/P13-1160.pdf) [data](../resourses/sentiment/ACL2013Sentiment.tar.gz) [slides](../resourses/sentiment/bayesianSentiment.pdf)
-* **Fish transporters and miracle homes: How compositional distributional semantics can help NP parsing**\\
-**Angeliki Lazaridou**, Eva Maria Vecchi and Marco Baroni\\
-EMNLP 2013 Short, Oral\\
-[paper](http://www.aclweb.org/anthology/D/D13/D13-1196.pdf) [data](../resourses/parsing/NP_dataset.tar.gz) [slides](../resourses/parsing/NP_Parsing.pdf) 
-
-2011
----------------------
 * **ELS: a word-level method for entity-level sentiment analysis**\\
 Nikolaos Engonopoulos, **Angeliki Lazaridou**, Georgios Paliouras and Konstantinos Chandrinos\\
 WIMS 2011 Long, Oral\\
