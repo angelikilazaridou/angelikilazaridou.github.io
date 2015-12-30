@@ -13,6 +13,8 @@ And before that, I was a Computer Science BSc student working with <a href="http
 
 News
 ---------
+* December 2015: I'm co-organizing the <a href="https://sites.google.com/site/naaclsrw2016/">NAACL SRW 2016</a> (San Diego, USA). Submission deadline: March 11, 2016.
+
 * September 2015: I will be attending the Google NLP PhD Summit!
 
 * September 2015: Slides on <a href="../resourses/talks/MmLL.pdf">Multimodal Language Learning</a> (Talks at IBM Watson, UPenn and Facebook AI)
