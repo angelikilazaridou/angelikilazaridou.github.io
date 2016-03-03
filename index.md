@@ -24,8 +24,8 @@ News
 * September 2015: I will be attending the Google NLP PhD Summit!
 
 * September 2015: Slides on <a href="../resourses/talks/MmLL.pdf">Multimodal Language Learning</a> (Talks at IBM Watson, UPenn and Facebook AI)
-
-{%* June 2015: <a href="http://arxiv.org/abs/1506.03500">What is the meaning of a word? Language-driven image generation from word embeddings</a>
+{% comment %}
+* June 2015: <a href="http://arxiv.org/abs/1506.03500">What is the meaning of a word? Language-driven image generation from word embeddings</a>
 
 * June 2015: Our work *A Multitask Objective to Inject Lexical Contrast into Distributional Semantics* with Nghia and Marco will appear at ACL 2015 (Short)!
 
@@ -37,7 +37,7 @@ News
 
 * February 2015: Our work *Combining Language and Vision with a Multimodal Skip-gram Model*  with Nghia and Marco, got selected for an oral presentation at NAACL!
 
-* February 2015: I was selected as a Facebook Fellowship Finalist.%}
+* February 2015: I was selected as a Facebook Fellowship Finalist.
 
-
+{% endcomment %}
 
