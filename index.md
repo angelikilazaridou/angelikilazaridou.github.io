@@ -17,13 +17,12 @@ News
 
 * February 2016: Together with Douwe Kiela and Desmond Elliott, we will be giving an ACL tutorial on *Multimodal Learning and Reasoning*
 
-* February 2015: I'm co-organizing the <a href="https://sites.google.com/site/naaclsrw2016/">NAACL SRW 2016</a> (San Diego, USA). Submission deadline: March 11, 2016.
+* February 2016: I'm co-organizing the <a href="https://sites.google.com/site/naaclsrw2016/">NAACL SRW 2016</a> (San Diego, USA). Submission deadline: March 11, 2016.
 
-* December 2015: I attended Women In Machine Learning (NIPS 2015). Thank you for the opportunity!
-
-* September 2015: I will be attending the Google NLP PhD Summit!
+* December 2015: I attended Women In Machine Learning (NIPS 2015). 
 
 * September 2015: Slides on <a href="../resourses/talks/MmLL.pdf">Multimodal Language Learning</a> (Talks at IBM Watson, UPenn and Facebook AI)
+
 {% comment %}
 * June 2015: <a href="http://arxiv.org/abs/1506.03500">What is the meaning of a word? Language-driven image generation from word embeddings</a>
 
