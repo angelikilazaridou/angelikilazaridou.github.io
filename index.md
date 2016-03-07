@@ -13,6 +13,10 @@ And before that, I was a Computer Science BSc student working with <a href="http
 
 News
 ---------
+* March 2016: I will be spending 3 months this fall at Facebook AI working with Tomas Mikolov!
+
+* March 2016: I will be spending 3 months this summer at ISI (USC) working with Kevin Knight and Daniel Marcu!
+
 * March 2016: Our work *Multimodal Semantic Learning from Child-Directed Input* with Grzegorz Chrupala, Raquel Fernandez and Marco Baroni will appear at NAACL 2016!
 
 * February 2016: Together with Douwe Kiela and Desmond Elliott, we will be giving an ACL tutorial on *Multimodal Learning and Reasoning*
