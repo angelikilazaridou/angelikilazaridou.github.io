@@ -17,7 +17,7 @@ News
 
 * March 2016: I will be spending 3 months this summer at ISI (USC).
 
-* March 2016: Our work <a href="../resources/vision/learning-from-childes-short-naacl2016.pdf">Multimodal Semantic Learning from Child-Directed Input</a> with Grzegorz Chrupala, Raquel Fernandez and Marco Baroni will appear at NAACL 2016!
+* March 2016: Our work <a href="../resourses/vision/learning-from-childes-short-naacl2016.pdf">Multimodal Semantic Learning from Child-Directed Input</a> with Grzegorz Chrupala, Raquel Fernandez and Marco Baroni will appear at NAACL 2016!
 
 * February 2016: Together with Douwe Kiela and Desmond Elliott, we will be giving an ACL tutorial on *Multimodal Learning and Reasoning*
 
