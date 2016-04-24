@@ -13,6 +13,8 @@ And before that, I was a Computer Science BSc student working with <a href="http
 
 News
 ---------
+* April 2016: Our work <a href="./">``The red one!'': On learning to refer to things based on their discriminative properties</a> with Nghia The Pham  and Marco Baroni will appear at ACL 2016!
+
 * March 2016: I will be spending 3 months this fall at Facebook AI.
 
 * March 2016: I will be spending 3 months this summer at ISI (USC).
