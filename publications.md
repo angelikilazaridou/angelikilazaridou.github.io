@@ -22,6 +22,7 @@ NAACL 2016 Short\\
 ------------------
 * **Unveiling the Dreams of Word Embeddings: Towards Language-Driven Image Generation**\\
 **Angeliki Lazaridou**, Dat Tien Nguyen, Raffaela Bernardi and Marco Baroni\\
+Multimodal Machine Learning Workshop (NIPS 2016)\\
 [paper](http://arxiv.org/abs/1506.03500)
 * **Do Distributed Semantic Models Dream of Electric Sheep? Visualizing Word Representations through Image Synthesis**\\
 **Angeliki Lazaridou**, Dat Tien Nguyen and Marco Baroni\\
