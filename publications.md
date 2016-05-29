@@ -6,6 +6,18 @@ permalink: /publications/
 
 [Google Scholar Profile](https://scholar.google.it/citations?user=BMgUIC0AAAAJ&hl=en)
 
+2016
+------------------
+* **The red one!: On learning to refer to things based on their discriminative properties**\\
+**Angeliki Lazaridou**, Nghia The Pham and Marco Baroni\\
+ACL 2016 Short\\
+[paper](http://arxiv.org/abs/1603.02618)
+* **Multimodal semantic learning from child-directed input**\\
+**Angeliki Lazaridou**, Grzegorz Chrupala, Raquel Fernandez and Marco Baroni\\
+NAACL 2016 Short\\
+[paper](http://clic.cimec.unitn.it/marco/publications/lazaridou-etal-multimodal-learning-from-cdi-naacl2016.pdf)
+
+
 2015
 ------------------
 * **Unveiling the Dreams of Word Embeddings: Towards Language-Driven Image Generation**\\
