@@ -13,6 +13,8 @@ And before that, I was a Computer Science BSc student working with <a href="http
 
 News
 ---------
+* Check out <a href="http://arxiv.org/abs/1606.06031"> LAMBDADA</a>, our new text understanding dataset, with humans scoring 100\% and SoA 0\%.
+
 * May 2016: I recently gave a talk at the NLP seminal at ISI (USC) on our new work on <a href="https://arxiv.org/abs/1605.07133v1"> Multi-Agent Communication-Based Language Learning</a>.
 
 * April 2016: Our work <a href="http://arxiv.org/abs/1603.02618">The red one!: On learning to refer to things based on their discriminative properties</a> with Nghia The Pham  and Marco Baroni will appear at ACL 2016!
