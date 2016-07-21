@@ -47,11 +47,11 @@ ICLR 2015, Workshop Track\\
 * **A Multitask Objective to Inject Lexical Contrast into Distributional Semantics**\\
 Nghia The Pham, **Angeliki Lazaridou** and Marco Baroni\\
 ACL 2015 Short, Oral\\
-[paper](https://aclweb.org/anthology/P/P15/P15-2004.pdf)
+[paper](../resourses/PhamEtAl2015.pdf)
 * **Jointly optimizing word representations for lexical and sentential tasks with the C-PHRASE model**\\
 Nghia The Pham, German Kruzwewski, **Angeliki Lazaridou** and Marco Baroni\\
 ACL 2015 Long, Poster\\
-[paper](https://aclweb.org/anthology/P/P15/P15-1027.pdf)
+[paper](../resourses/PhamEtAl2015b.pdf)
 
 2014
 --------------------
