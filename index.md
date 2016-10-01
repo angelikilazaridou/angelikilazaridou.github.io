@@ -14,7 +14,7 @@ And before that, I was a Computer Science BSc student working with <a href="http
 News
 ---------
 
-* October 2016: In January 2017 I will be joining <a href="https://deepmind.com/">DeepMind</a> as a research scientist. 
+* October 2016: In January 2017 I will be joining <a href="https://deepmind.com/">Google DeepMind</a> as a research scientist. 
 
 * September 2016: I'm spending 3 months at <a href="https://research.facebook.com/ai">Facebook AI Research</a> working on grounded multi-agent communication.
 
