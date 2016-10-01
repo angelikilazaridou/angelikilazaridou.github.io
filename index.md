@@ -13,10 +13,20 @@ And before that, I was a Computer Science BSc student working with <a href="http
 
 News
 ---------
-* Check out <a href="http://arxiv.org/abs/1606.06031"> LAMBADA</a>, our new text understanding dataset, with humans scoring 100% and SoA 0%.
+
+* October 2016: In January 2017 I will be joining <a href="https://deepmind.com/">DeepMind</a> as a research scientist. 
+
+* September 2016: I'm spending 3 months at <a href="https://research.facebook.com/ai">Facebook AI Research</a> working on grounded multi-agent communication.
+
+* September 2016: We are organizing <a href="https://mainatnips.github.io/">Machine Intelligence Workshop @ NIPS 2016</a>. Abstract submission deadline October 9th.
+
+* September 2016: We released the first prototype of <a href="https://github.com/facebookresearch/CommAI-env">CommAI-env</a>, an environment meant to stimulate the development of communication-based AI.
+
+* August 2016: Check out <a href="http://clic.cimec.unitn.it/lambada/"> LAMBADA</a>, our new text understanding dataset, with humans scoring 100% and SoA 0%. 
 
 * May 2016: I recently gave a talk at the NLP seminal at ISI (USC) on our new work on <a href="https://arxiv.org/abs/1605.07133v1"> Multi-Agent Communication-Based Language Learning</a>.
 
+{% comment %}
 * April 2016: Our work <a href="http://arxiv.org/abs/1603.02618">The red one!: On learning to refer to things based on their discriminative properties</a> with Nghia The Pham  and Marco Baroni will appear at ACL 2016!
 
 * March 2016: I will be spending 3 months this fall at Facebook AI.
@@ -33,7 +43,6 @@ News
 
 * September 2015: Slides on <a href="../resourses/talks/MmLL.pdf">Multimodal Language Learning</a> (Talks at IBM Watson, UPenn and Facebook AI)
 
-{% comment %}
 * June 2015: <a href="http://arxiv.org/abs/1506.03500">What is the meaning of a word? Language-driven image generation from word embeddings</a>
 
 * June 2015: Our work *A Multitask Objective to Inject Lexical Contrast into Distributional Semantics* with Nghia and Marco will appear at ACL 2015 (Short)!
