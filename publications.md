@@ -13,7 +13,7 @@ permalink: /publications/
 arxiv report\\
 [paper](https://arxiv.org/abs/1605.07133)
 * **Multimodal word meaning induction from minimal exposure to natural text**\\
-**Angeliki Lazaridou**, Marco Marelli and Marco Baroni\\ 
+**Angeliki Lazaridou**, Marco Marelli and Marco Baroni\\
 Cognitive Science, to appear\\
 [paper](http://clic.cimec.unitn.it/marco/publications/lazaridou-et-al-chimeras-cogsci.pdf) [data](http://clic.cimec.unitn.it/Files/PublicData/chimeras.zip)
 * **The red one!: On learning to refer to things based on their discriminative properties**\\
