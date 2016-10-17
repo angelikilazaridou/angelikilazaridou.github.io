@@ -12,7 +12,7 @@ permalink: /publications/
 **Angeliki Lazaridou**, Nghia The Pham and Marco Baroni\\
 arxiv report\\
 [paper](https://arxiv.org/abs/1605.07133)
-**Multimodal word meaning induction from minimal exposure to natural text**\\
+* **Multimodal word meaning induction from minimal exposure to natural text**\\
 **Angeliki Lazaridou**, Marco Marelli and Marco Baroni\\ 
 Cognitive Science, to appear\\
 [paper](http://clic.cimec.unitn.it/marco/publications/lazaridou-et-al-chimeras-cogsci.pdf) [data](http://clic.cimec.unitn.it/Files/PublicData/chimeras.zip)
