@@ -8,14 +8,31 @@ permalink: /publications/
 
 2016
 ------------------
+* **Towards Multi-Agent Communication-Based Language Learning**\\
+**Angeliki Lazaridou**, Nghia The Pham and Marco Baroni\\
+arxiv report\\
+[paper](https://arxiv.org/abs/1605.07133)
+**Multimodal word meaning induction from minimal exposure to natural text**\\
+**Angeliki Lazaridou**, Marco Marelli and Marco Baroni\\ 
+Cognitive Science, to appear\\
+[paper](http://clic.cimec.unitn.it/marco/publications/lazaridou-et-al-chimeras-cogsci.pdf) [data](http://clic.cimec.unitn.it/Files/PublicData/chimeras.zip)
 * **The red one!: On learning to refer to things based on their discriminative properties**\\
 **Angeliki Lazaridou**, Nghia The Pham and Marco Baroni\\
-ACL 2016 Short\\
+ACL 2016 Short, Oral\\
 [paper](http://arxiv.org/abs/1603.02618)
 * **Multimodal semantic learning from child-directed input**\\
 **Angeliki Lazaridou**, Grzegorz Chrupala, Raquel Fernandez and Marco Baroni\\
 NAACL 2016 Short\\
 [paper](http://clic.cimec.unitn.it/marco/publications/lazaridou-etal-multimodal-learning-from-cdi-naacl2016.pdf)
+* **The LAMBADA dataset: Word prediction requiring a broad discourse context**\\
+Denis Paperno, German Kruszewski, **Angeliki Lazaridou**, Quan Ngoc Pham, Raffaella Bernardi, Sandro Pezzelle, Marco Baroni, Gemma Boleda, Raquel Fernandez\\
+ACL2016 Long, Oral\\
+[paper](https://www.aclweb.org/anthology/P/P16/P16-1144.pdf) [data](http://clic.cimec.unitn.it/lambada/)
+* **Look, some green circles!'': Learning to quantify from images**\\
+Ionut Sorodoc, **Angeliki Lazaridou**, Gemma Boleda, Aurélie Herbelot, Sandro Pezzelle and Raffaella Bernardi\\
+ACL2106, Vision and Language Workshop\\
+[paper](http://aurelieherbelot.net/wp-content/uploads/2016/06/sorodoc_etal.pdf)
+
 
 
 2015
