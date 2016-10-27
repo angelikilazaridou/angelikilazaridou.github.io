@@ -13,6 +13,7 @@ And before that, I was a Computer Science BSc student working with <a href="http
 
 News
 ---------
+* October 2016: Our work <a href="http://clic.cimec.unitn.it/marco/publications/lazaridou-et-al-chimeras-cogsci.pdf">Multimodal word meaning induction from minimal exposure to natural text</a> with Marco Marelli and Marco Baroni got accepted at Cognitive Science Journal.
 
 * October 2016: In January 2017 I will be joining <a href="https://deepmind.com/">Google DeepMind</a> as a research scientist. 
 
