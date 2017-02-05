@@ -5,27 +5,27 @@ layout: default
 
 
 <h2 id="about-me">About me</h2>
-<p><img src="../resourses/me.jpg" width="250" height="200" style="float:right">I’m Angeliki, a graduate student, working with <a href="http://clic.cimec.unitn.it/marco">Marco Baroni</a> on multimodal semantics,  at the <a href="http://clic.cimec.unitn.it">CLIC Lab</a>  of the Center for Mind/Brain Sciences of the University of Trento, Italy
+<p><img src="../resourses/me.jpg" width="250" height="200" style="float:right">I’m Angeliki, a research scientist at DeepMind. Before that, I was fortunate to be a graduate student of <a href="http://clic.cimec.unitn.it/marco">Marco Baroni</a> working on grounded language learning at the <a href="http://clic.cimec.unitn.it">CLIC Lab</a>  of the Center for Mind/Brain Sciences of the University of Trento, Italy
 (<a href="https://www.google.com/maps/place/Roveret://www.google.com/maps/place/38068+Rovereto+TN,+It%C3%A1lie/@47.2603133,11.7074777,5z/data=!4m2!3m1!1s0x47820ec143127041:0x6a9664123aebfadf">map</a>).<br />
 Before that, I did an MSc in <a href="http://www.coli.uni-saarland.de">Computational Linguistics at the University of Saarland</a> working with <a href="http://ivan-titov.org">Ivan Titov</a> and <a href="http://www.uni-trier.de/index.php?id=46381">Caroline Sporleder</a> on Sentiment Analysis.<br />
 And before that, I was a Computer Science BSc student working with <a href="http://users.iit.demokritos.gr/~paliourg">Georgios Paliouras</a> on Sentiment Analysis.</p>
 
+<p>In a previous lifetime, I used to be a <a href="../resourses/kayak.jpg">kayaker</a> :)</p>
+
 
 News
 ---------
+* January 2017: I joined Google DeepMind as a Research Scientist!
+
+* December 2016: I recently spent some time at <a href="https://research.facebook.com/ai">Facebook AI Research</a> working on grounded multi-agent communication. Check out the associated <a href="https://arxiv.org/abs/1612.07182">pre-print</a>.
+
 * October 2016: Our work <a href="http://clic.cimec.unitn.it/marco/publications/lazaridou-et-al-chimeras-cogsci.pdf">Multimodal word meaning induction from minimal exposure to natural text</a> with Marco Marelli and Marco Baroni got accepted at Cognitive Science Journal.
-
-* October 2016: In January 2017 I will be joining <a href="https://deepmind.com/">Google DeepMind</a> as a research scientist. 
-
-* September 2016: I'm spending 3 months at <a href="https://research.facebook.com/ai">Facebook AI Research</a> working on grounded multi-agent communication.
 
 * September 2016: We are organizing <a href="https://mainatnips.github.io/">Machine Intelligence Workshop @ NIPS 2016</a>. Abstract submission deadline October 9th.
 
 * September 2016: We released the first prototype of <a href="https://github.com/facebookresearch/CommAI-env">CommAI-env</a>, an environment meant to stimulate the development of communication-based AI.
 
 * August 2016: Check out <a href="http://clic.cimec.unitn.it/lambada/"> LAMBADA</a>, our new text understanding dataset, with humans scoring 100% and SoA 0%. 
-
-* May 2016: I recently gave a talk at the NLP seminal at ISI (USC) on our new work on <a href="https://arxiv.org/abs/1605.07133v1"> Multi-Agent Communication-Based Language Learning</a>.
 
 {% comment %}
 * April 2016: Our work <a href="http://arxiv.org/abs/1603.02618">The red one!: On learning to refer to things based on their discriminative properties</a> with Nghia The Pham  and Marco Baroni will appear at ACL 2016!
