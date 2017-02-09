@@ -8,7 +8,7 @@ layout: default
 <p><img src="../resourses/me.jpg" width="250" height="200" style="float:right">I’m Angeliki, a research scientist at DeepMind. </p>
 
 <p>Before that, I was fortunate to be a graduate student of <a href="http://clic.cimec.unitn.it/marco">Marco Baroni</a> working on grounded language learning at the <a href="http://clic.cimec.unitn.it">CLIC Lab</a>  of the Center for Mind/Brain Sciences of the University of Trento, Italy
-(<a href="https://www.google.com/maps/place/Roveret://www.google.com/maps/place/38068+Rovereto+TN,+It%C3%A1lie/@47.2603133,11.7074777,5z/data=!4m2!3m1!1s0x47820ec143127041:0x6a9664123aebfadf">map</a>).<br />
+(<a href="https://www.google.com/maps/place/Roveret://www.google.com/maps/place/38068+Rovereto+TN,+It%C3%A1lie/@47.2603133,11.7074777,5z/data=!4m2!3m1!1s0x47820ec143127041:0x6a9664123aebfadf">map</a>).
 Before that, I did an MSc in <a href="http://www.coli.uni-saarland.de">Computational Linguistics at the University of Saarland</a> working with <a href="http://ivan-titov.org">Ivan Titov</a> and <a href="http://www.uni-trier.de/index.php?id=46381">Caroline Sporleder</a> on Sentiment Analysis.<br />
 And before that, I was a Computer Science BSc student working with <a href="http://users.iit.demokritos.gr/~paliourg">Georgios Paliouras</a> on Sentiment Analysis.</p>
 
@@ -17,6 +17,8 @@ And before that, I was a Computer Science BSc student working with <a href="http
 
 News
 ---------
+* February 2017: Our work on grounding multi-agent communication got accepted as an Oral presentation at ICLR!
+
 * January 2017: I joined Google DeepMind as a Research Scientist!
 
 * December 2016: I recently spent some time at <a href="https://research.facebook.com/ai">Facebook AI Research</a> working on grounded multi-agent communication. Check out the associated <a href="https://arxiv.org/abs/1612.07182">pre-print</a>.
