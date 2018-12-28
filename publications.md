@@ -5,9 +5,18 @@ permalink: /publications/
 ---
 
 [Google Scholar Profile](https://scholar.google.it/citations?user=BMgUIC0AAAAJ&hl=en)
+
 2017
 -----------------
-* * CommAI: Evaluating the first steps towards a useful general AI**\\
+* **Multi-agent cooperation and the emergence of (natural) language**\\
+**Angeliki Lazaridou**, Alexander Peysakhovich, Marco Baroni\\
+ICLR 2017 (Oral Presentation)\\
+[paper](https://arxiv.org/pdf/1612.07182.pdf)
+* **Multimodal word meaning induction from minimal exposure to natural text**\\
+**Angeliki Lazaridou**, Marco Marelli and Marco Baroni\\
+Cognitive Science, to appear\\
+[paper](http://clic.cimec.unitn.it/marco/publications/lazaridou-et-al-chimeras-cogsci.pdf) [data](http://clic.cimec.unitn.it/Files/PublicData/chimeras.zip
+* **CommAI: Evaluating the first steps towards a useful general AI**\\
 Marco Baroni, Armand Joulin, Allan Jabri, Germàn Kruszewski, **Angeliki Lazaridou**, Klemen Simonic, Tomas Mikolov\\
 ICLR 2017, Workshop Track\\
 [paper](https://arxiv.org/pdf/1701.08954.pdf)
@@ -22,10 +31,6 @@ NIPS 2017 (poster presentation)\\
 **Angeliki Lazaridou**, Nghia The Pham and Marco Baroni\\
 arxiv report\\
 [paper](https://arxiv.org/abs/1605.07133)
-* **Multimodal word meaning induction from minimal exposure to natural text**\\
-**Angeliki Lazaridou**, Marco Marelli and Marco Baroni\\
-Cognitive Science, to appear\\
-[paper](http://clic.cimec.unitn.it/marco/publications/lazaridou-et-al-chimeras-cogsci.pdf) [data](http://clic.cimec.unitn.it/Files/PublicData/chimeras.zip)
 * **The red one!: On learning to refer to things based on their discriminative properties**\\
 **Angeliki Lazaridou**, Nghia The Pham and Marco Baroni\\
 ACL 2016 Short, Oral\\
