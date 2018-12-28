@@ -6,6 +6,26 @@ permalink: /publications/
 
 [Google Scholar Profile](https://scholar.google.it/citations?user=BMgUIC0AAAAJ&hl=en)
 
+2018
+-----------------
+* **Emergence of linguistic communication from referential games with symbolic and pixel input**\\
+**Angeliki Lazaridou**, Karl Moritz Hermann, Karl Tuyls, Stephen Clark\\
+ICLR 2018 (Oral Presentation)\\
+[paper](https://arxiv.org/pdf/1804.03984.pdf)
+* **Emergent Communication through Negotiation**\\
+Kris Cao, **Angeliki Lazaridou**, Marc Lanctot, Joel Z Leibo, Karl Tuyls, Stephen Clark\\
+ICLR 2018 (Poster Presentation)\\
+[paper](https://arxiv.org/pdf/1804.03980.pdf)
+* **Compositional Obverter Communication Learning From Raw Visual Input**\\
+Edward Choi, **Angeliki Lazaridou**, Nando de Freitas\\
+ICLR 2018 (Poster Presentation)
+[paper](https://arxiv.org/pdf/1804.02341.pdf)
+* **Intrinsic Social Motivation via Causal Influence in Multi-Agent RL**\\
+Natasha Jaques, **Angeliki Lazaridou**, Edward Hughes, Caglar Gulcehre, Pedro A Ortega, DJ Strouse, Joel Z Leibo, Nando de Freitas\\
+arxiv report\\
+[paper](https://arxiv.org/pdf/1810.08647.pdf)
+
+
 2017
 -----------------
 * **Multi-agent cooperation and the emergence of (natural) language**\\
@@ -15,7 +35,11 @@ ICLR 2017 (Oral Presentation)\\
 * **Multimodal word meaning induction from minimal exposure to natural text**\\
 **Angeliki Lazaridou**, Marco Marelli and Marco Baroni\\
 Cognitive Science, to appear\\
-[paper](http://clic.cimec.unitn.it/marco/publications/lazaridou-et-al-chimeras-cogsci.pdf) [data](http://clic.cimec.unitn.it/Files/PublicData/chimeras.zip
+[paper](http://clic.cimec.unitn.it/marco/publications/lazaridou-et-al-chimeras-cogsci.pdf) [data](http://clic.cimec.unitn.it/Files/PublicData/chimeras.zip)
+* **The repeval 2017 shared task: Multi-genre natural language inference with sentence representations**\\
+Nikita Nangia, Adina Williams, **Angeliki Lazaridou**, Samuel R Bowman\\
+RepEval, EMNLP 2017\\
+[paper](https://arxiv.org/pdf/1707.08172.pdf)
 * **CommAI: Evaluating the first steps towards a useful general AI**\\
 Marco Baroni, Armand Joulin, Allan Jabri, Germàn Kruszewski, **Angeliki Lazaridou**, Klemen Simonic, Tomas Mikolov\\
 ICLR 2017, Workshop Track\\
