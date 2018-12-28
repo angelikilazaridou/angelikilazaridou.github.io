@@ -28,7 +28,11 @@ News
 ---------
 * December 2018: I gave a talk at South East NLP on the *emergence of (linguistic) communication through multi-agent interactions* ([slides](https://bit.ly/2EQBlKq))
 
-* December 2018: NeurIPS 2018 updates: I co-organized two workshops, the [Wordplay](https://www.wordplay2018.com/) aiming at bringing bridging Reinforncemnt Learning and Language research through text-based games and the [2nd edition of the Emergent Communication Workshop](https://sites.google.com/site/emecom2018/). I also gave a talk at the [ViGIL](https://nips2018vigil.github.io/) workshop where I talked about my work on multi-agent communication!
+* NeurIPS 2018: 
+
+	* I co-organized two workshops, the [Wordplay](https://www.wordplay2018.com/) aiming at bringing bridging Reinforncemnt Learning and Language research through text-based games and the [2nd edition of the Emergent Communication Workshop](https://sites.google.com/site/emecom2018/).
+
+	* I gave an invited talk at the [ViGIL](https://nips2018vigil.github.io/) workshop where I talked about my work on multi-agent communication!
 
 * February 2017: Our work on grounding multi-agent communication got accepted as an Oral presentation at ICLR!
 
