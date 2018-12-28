@@ -5,6 +5,16 @@ permalink: /publications/
 ---
 
 [Google Scholar Profile](https://scholar.google.it/citations?user=BMgUIC0AAAAJ&hl=en)
+2017
+-----------------
+* * CommAI: Evaluating the first steps towards a useful general AI**\\
+Marco Baroni, Armand Joulin, Allan Jabri, Germàn Kruszewski, **Angeliki Lazaridou**, Klemen Simonic, Tomas Mikolov\\
+ICLR 2017, Workshop Track\\
+[paper](https://arxiv.org/pdf/1701.08954.pdf)
+* **A unified game-theoretic approach to multiagent reinforcement learning**\\
+Marc Lanctot, Vinicius Zambaldi, Audrunas Gruslys, **Angeliki Lazaridou**, Karl Tuyls, Julien Pérolat, David Silver, Thore Graepel\\
+NIPS 2017 (poster presentation)\\
+[paper](https://papers.nips.cc/paper/7007-a-unified-game-theoretic-approach-to-multiagent-reinforcement-learning.pdf)
 
 2016
 ------------------
