@@ -5,7 +5,7 @@ layout: default
 
 
 <h2 id="about-me">About me</h2>
-<p><img src="../resourses/me.jpg" width="250" height="200" style="float:right">I’m Angeliki, a research scientist at DeepMind. </p>
+<p><img src="../resourses/me.jpg" width="250" height="200" style="float:right">I’m Angeliki, a senior research scientist at DeepMind. </p>
 
 <p>Before that, I was fortunate to be a graduate student of <a
 href="http://clic.cimec.unitn.it/marco">Marco Baroni</a> working on grounded
@@ -26,6 +26,8 @@ Sentiment Analysis.</p>
 
 News
 ---------
+* December 2018: I gave a talk at South East NLP on the *emergence of (linguistic) communication through multi-agent interactions* ([slides](https://bit.ly/2EQBlKq))
+* December 2018: NeurIPS 2018 updates: I co-organized two workshops, [Wordplay](https://www.wordplay2018.com/) aiming at bringing bridging Reinforncemnt Learning and Language research through text-based games and the [2nd edition of the Emergent Communication Workshop](https://sites.google.com/site/emecom2018/). I also gave a talk at the [ViGIL](https://nips2018vigil.github.io/) workshop where I talked about my work on multi-agent communication!
 * February 2017: Our work on grounding multi-agent communication got accepted as an Oral presentation at ICLR!
 
 * January 2017: I joined Google DeepMind as a Research Scientist!

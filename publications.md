@@ -18,7 +18,7 @@ ICLR 2018 (Poster Presentation)\\
 [paper](https://arxiv.org/pdf/1804.03980.pdf)
 * **Compositional Obverter Communication Learning From Raw Visual Input**\\
 Edward Choi, **Angeliki Lazaridou**, Nando de Freitas\\
-ICLR 2018 (Poster Presentation)
+ICLR 2018 (Poster Presentation)\\
 [paper](https://arxiv.org/pdf/1804.02341.pdf)
 * **Intrinsic Social Motivation via Causal Influence in Multi-Agent RL**\\
 Natasha Jaques, **Angeliki Lazaridou**, Edward Hughes, Caglar Gulcehre, Pedro A Ortega, DJ Strouse, Joel Z Leibo, Nando de Freitas\\
