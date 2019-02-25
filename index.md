@@ -16,7 +16,7 @@ Before that, I did an MSc in <a
 href="http://www.coli.uni-saarland.de">Computational Linguistics at the
 University of Saarland</a> working with <a href="http://ivan-titov.org">Ivan
 Titov</a> and <a href="http://www.uni-trier.de/index.php?id=46381">Caroline
-Sporleder</a> on Sentiment Analysis. And before that, I was a Computer Science
+Sporleder</a> on Sentiment Analysis, supported by an Erasmus Mundus Masters scholarship in Language and Communication Technology (<a href="https://lct-master.org/">EM-LCT</a>). And before that, I was a Computer Science
 BSc student working with <a
 href="http://users.iit.demokritos.gr/~paliourg">Georgios Paliouras</a> on
 Sentiment Analysis.</p>
