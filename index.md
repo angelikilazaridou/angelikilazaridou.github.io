@@ -5,7 +5,7 @@ layout: default
 
 
 <h2 id="about-me">About me</h2>
-<p><img src="../resourses/me.jpg" width="250" height="200" style="float:right">I’m Angeliki, a senior research scientist at DeepMind. </p>
+<p><img src="../resourses/me2.jpg" width="250" height="200" style="float:right">I’m Angeliki, a senior research scientist at DeepMind. </p>
 
 <p>Before that, I was fortunate to be a graduate student of <a
 href="http://clic.cimec.unitn.it/marco">Marco Baroni</a> working on grounded
@@ -21,9 +21,9 @@ BSc student working with <a
 href="http://users.iit.demokritos.gr/~paliourg">Georgios Paliouras</a> on
 Sentiment Analysis.</p>
 
-<p>In a previous lifetime, I used to be a <a href="../resourses/kayak.jpg">kayaker</a> :)</p>
+<p>In a previous lifetime, I used to be a <a href="../resourses/kayak.jpg">kayaker</a> and a member of the Greek national team.</p>
 
-
+{% comment %}
 News
 ---------
 * December 2018: I gave a talk at South East NLP on the *emergence of (linguistic) communication through multi-agent interactions* ([slides](https://bit.ly/2EQBlKq))
@@ -48,7 +48,7 @@ News
 
 * August 2016: Check out <a href="http://clic.cimec.unitn.it/lambada/"> LAMBADA</a>, our new text understanding dataset, with humans scoring 100% and SoA 0%. 
 
-{% comment %}
+
 * April 2016: Our work <a href="http://arxiv.org/abs/1603.02618">The red one!: On learning to refer to things based on their discriminative properties</a> with Nghia The Pham  and Marco Baroni will appear at ACL 2016!
 
 * March 2016: I will be spending 3 months this fall at Facebook AI.
