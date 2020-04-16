@@ -5,7 +5,7 @@ layout: default
 
 
 <h2 id="about-me">About me</h2>
-<p><img src="../resourses/me2.jpg" style="float:right">I’m Angeliki, a senior research scientist at DeepMind. </p>
+<p><img src="../resourses/me2.jpg" style="float:right">I’m Angeliki, a research scientist at DeepMind. </p>
 
 <p>Before that, I was fortunate to be a graduate student of <a
 href="http://clic.cimec.unitn.it/marco">Marco Baroni</a> working on grounded
