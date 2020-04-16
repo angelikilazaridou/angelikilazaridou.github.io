@@ -1,7 +1,7 @@
 ---
-layout: page
-title: My Research
-permalink: /research/
+%layout: page
+%title: My Research
+%permalink: /research/
 ---
 
 

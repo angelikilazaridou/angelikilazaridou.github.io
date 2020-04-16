@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Publications
-permalink: /publications/
+%layout: page
+%title: Publications
+%permalink: /publications/
 ---
 
 [Google Scholar Profile](https://scholar.google.it/citations?user=BMgUIC0AAAAJ&hl=en)
