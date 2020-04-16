@@ -24,7 +24,7 @@ Sentiment Analysis.</p>
 
 <p>In a previous lifetime, I used to be a <a href="../resourses/kayak.jpg">kayaker</a> and a member of the Greek national team.</p>
 
-<p>For up to date list of publications, please have a look at my <a href=https://scholar.google.it/citations?user=BMgUIC0AAAAJ&hl=en<Google Scholar</a>.</p>
+<p>For up to date list of publications, please have a look at my <a href=https://scholar.google.it/citations?user=BMgUIC0AAAAJ&hl=en><Google Scholar</a>.</p>
 
 {% comment %}
 News

@@ -1,7 +1,7 @@
 ---
-layout: page
-title: CV
-permalink: /CV/
+%layout: page
+%title: CV
+%permalink: /CV/
 ---
 
 [Detailed CV](..//resourses/cv.pdf)
