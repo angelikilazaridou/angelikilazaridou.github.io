@@ -5,7 +5,7 @@ layout: default
 
 
 <h2 id="about-me">About me</h2>
-<p><img src="../resourses/me2.jpg" width="250" height="200" style="float:right">I’m Angeliki, a senior research scientist at DeepMind. </p>
+<p><img src="../resourses/me2.jpg" style="float:right">I’m Angeliki, a senior research scientist at DeepMind. </p>
 
 <p>Before that, I was fortunate to be a graduate student of <a
 href="http://clic.cimec.unitn.it/marco">Marco Baroni</a> working on grounded
@@ -22,6 +22,8 @@ href="http://users.iit.demokritos.gr/~paliourg">Georgios Paliouras</a> on
 Sentiment Analysis.</p>
 
 <p>In a previous lifetime, I used to be a <a href="../resourses/kayak.jpg">kayaker</a> and a member of the Greek national team.</p>
+
+<p>For up to date list of publications, have a look at my [Google Scholar Profile](https://scholar.google.it/citations?user=BMgUIC0AAAAJ&hl=en)</p>
 
 {% comment %}
 News
